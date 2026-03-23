@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.dylib
+*.o
+*.a
+.eggs/
+*.egg-info/
+python/gpumd_dlext/_gpumd_dlext*
